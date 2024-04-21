@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravgaikwad3000&label=Profile%20views&color=0e75b6&style=flat" alt="gouravgaikwad3000" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently Upscaling myself as **Data Analytics**
 
 - 📫 How to reach me **gouravgaikwad1972@gmail.com**
 
